@@ -150,4 +150,4 @@ jobs:
           context: ./gateway/
           push: true
           # Тут вместо username должен быть ваш логин на Docker Hub
-          tags: iluclcode/taski_gateway:latest
+          tags: iluckcode/taski_gateway:latest
